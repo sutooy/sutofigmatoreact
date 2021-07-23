@@ -1,0 +1,96 @@
+* {
+    box-sizing: border-box;
+    background: #383A45;
+  }
+
+/* Rectangle 1 */
+.FrameContainer {
+    margin:auto !important;
+    display:inline-flex;  
+    justify-content:center;
+    align-items: center !important; 
+    border-color: black !important;
+    border: 50px;
+    background: #6bc4ff !important;
+    border-radius: 8px;
+    width: 729px;
+    height: 310px;
+    /* align-items: center;
+
+    display: inline; */
+
+    /* left: 393px;
+top: 317px; */
+    
+}
+
+/* Rectangle 2 */
+.LeftContainer {
+    width: 40%;
+    background: #383A45 !important;
+    width: 262px;
+    height: 250px;
+    border-radius: 8px;
+    /* align-items: center;
+    display: inline; */
+}
+
+.LeftContainer img {
+
+    width: 262px;
+    height: 250px;
+    left: 420px;
+    top: 347px;
+    border-radius: 8px;
+}
+
+.RightContainer {
+    width: 60%;
+    background: #ae60db !important;
+    border-radius: 8px;
+    margin-left: 2.3rem ;
+    /* align-items: center;
+    display: inline; */
+}
+
+/* An Above Average Experience */
+.Title{
+width: 366px;
+height: 57px;
+/* left: 720px;
+top: 373px; */
+font-weight:200 ;
+font-family: 'Poppins', sans-serif;
+font-style: normal;
+/* font-weight: normal; */
+font-size: 30px;
+line-height: 119.7%;
+/* or 36px */
+color: #FFFFFF;
+margin-bottom: 2.6rem;
+}
+
+.Paragraph{
+    /* Travel to the premiere mountain tops of New Zealand with our guided tours. Take in the majestic scenary and witness beauty. */
+
+/* position: absolute; */
+width: 359px;
+height: 112px;
+/* left: 720px;
+top: 473px; */
+
+font-family: 'Poppins', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 152.7%;
+/* or 24px */
+
+color: #8D91A6;
+    }
+
+@media screen and (min-width: 480px) {
+        body {
+          background-color: lightgreen;
+        }
+      }
