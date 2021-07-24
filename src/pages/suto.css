@@ -1,10 +1,9 @@
 :root {
     /* box-sizing: border-box; */
-    background-color:#2d2e36;
-    
+    background-color: #2d2e36;
+
 }
 
-/* Rectangle 1 */
 .FrameContainer {
     background-color: #383A45 !important;
     margin-top: 20rem;
@@ -25,7 +24,6 @@
     /* border-color: black !important; */
 }
 
-/* Rectangle 2 */
 .LeftContainer {
     width: 40%;
     background-color: #383A45 !important;
@@ -41,8 +39,6 @@
 
     width: 16.3rem;
     height: 15.6rem;
-    /* left: 420px; */
-    /* top: 347px; */
     border-radius: 0.5rem;
 }
 
@@ -51,30 +47,25 @@
     flex-direction: column;
     justify-content: space-between;
     width: 60%;
-    background-color: #383A45!important;
+    background-color: #383A45 !important;
     border-radius: 0.5rem;
     width: 22.8rem;
-    /* margin-left: 2.3rem; */
-    /* align-items: center;
-    display: inline; */
+
 }
 
-/* An Above Average Experience */
 .Title {
     width: 22.8rem;
     height: 3.5rem;
-    /* left: 720px;
-top: 373px; */
     font-weight: 200;
     font-family: 'Poppins', sans-serif;
     font-style: normal;
-    /* font-weight: normal; */
+
     font-size: 1.8rem;
     line-height: 119.7%;
-    /* or 36px */
+
     color: #FFFFFF;
     margin-bottom: 2.6rem;
-    background: #383A45!important;
+    background: #383A45 !important;
 
 }
 
@@ -88,25 +79,25 @@ top: 373px; */
     font-size: 1rem;
     line-height: 152.7%;
     color: #8D91A6;
-    background: #383A45!important;
+    background: #383A45 !important;
 
 }
 
 .SmallBox {
     width: 22.4rem;
-    background: #383A45!important;
+    background: #383A45 !important;
 
 }
 
 .SmallBox img {
     max-width: 1.5rem;
     max-height: 1.5rem;
-    background: #383A45!important;
+    background: #383A45 !important;
 
 }
 
 @media screen and (max-width: 480px) {
-   
+
 
 
     .FrameContainer {
@@ -130,14 +121,12 @@ top: 373px; */
         margin-right: 0rem;
 
 
-        /* padding : 1.5rem ; */
     }
 
     .LeftContainer img {
         width: 19rem;
         height: 18.1rem;
-        /* width: 16.3rem;
-        height: 15.6rem; */
+
         border-radius: 0.5rem;
         align-items: center;
     }
@@ -149,8 +138,6 @@ top: 373px; */
         width: 19rem;
         height: 18.1rem;
         margin-top: -2rem;
-
-        /* margin-inline: auto; */
     }
 
 
