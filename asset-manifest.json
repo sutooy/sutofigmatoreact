@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sutofigmatoreact/static/css/main.868c6472.chunk.css",
+    "main.js": "/sutofigmatoreact/static/js/main.c457c599.chunk.js",
+    "main.js.map": "/sutofigmatoreact/static/js/main.c457c599.chunk.js.map",
+    "runtime-main.js": "/sutofigmatoreact/static/js/runtime-main.ae9d38f6.js",
+    "runtime-main.js.map": "/sutofigmatoreact/static/js/runtime-main.ae9d38f6.js.map",
+    "static/js/2.34bdcedc.chunk.js": "/sutofigmatoreact/static/js/2.34bdcedc.chunk.js",
+    "static/js/2.34bdcedc.chunk.js.map": "/sutofigmatoreact/static/js/2.34bdcedc.chunk.js.map",
+    "static/js/3.b433c4b6.chunk.js": "/sutofigmatoreact/static/js/3.b433c4b6.chunk.js",
+    "static/js/3.b433c4b6.chunk.js.map": "/sutofigmatoreact/static/js/3.b433c4b6.chunk.js.map",
+    "index.html": "/sutofigmatoreact/index.html",
+    "static/css/main.868c6472.chunk.css.map": "/sutofigmatoreact/static/css/main.868c6472.chunk.css.map",
+    "static/js/2.34bdcedc.chunk.js.LICENSE.txt": "/sutofigmatoreact/static/js/2.34bdcedc.chunk.js.LICENSE.txt",
+    "static/media/Screenshot from 2021-07-25 11-47-09.501c2210.png": "/sutofigmatoreact/static/media/Screenshot from 2021-07-25 11-47-09.501c2210.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae9d38f6.js",
+    "static/js/2.34bdcedc.chunk.js",
+    "static/css/main.868c6472.chunk.css",
+    "static/js/main.c457c599.chunk.js"
+  ]
+}
